@@ -1,0 +1,94 @@
+/*BODY*/
+
+body {
+    background-color: bisque;
+}
+
+/*HEADER*/
+
+
+header {
+    background-image: url(Images/R.gif);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: auto;
+    width: auto;
+    background-size: cover;
+    background-position: center;
+    border: blueviolet;
+    border-color: black;
+    border-radius: 400px;
+    text-align: center;
+}
+
+h1 {
+    color: cornsilk;
+    font-family: Ravie;
+    position: fixed;
+    text-indent: 50px;
+    text-shadow: -3px -3px 5px rgb(160, 9, 97), 3px 3px 5px rgb(223, 37, 37), -3px -3px 5px rgb(60, 170, 16);
+}
+
+h5 {
+    color: cornsilk;
+    text-indent: 60px;
+}
+
+button {
+    color: rgb(97, 58, 7);
+    border-radius: 50px;
+    top: auto;
+    margin-left: 500px;
+    text-decoration: none;
+    text-align: end;
+    position: fixed;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li a {
+    color: whitesmoke;
+    text-decoration: none;
+    word-spacing: 3px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/*MAIN*/
+
+main {
+    background-image: url(Images/One-Pot\ Ranch\ Chicken\ and\ Rice\ Recipe.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main h2 {
+    color: rgb(102, 72, 89);
+    text-align: center;
+    text-indent: 20px;
+    font-size: larger;
+}
+
+section {
+    font-family: Segoe UI Black;
+    font-size: 12px;
+}
+
+section img {
+    border-radius: 450px;
+}
+
+/*FOOTER*/
+
+footer {
+    text-align: center;
+}
+
+footer div a img {
+    border-radius: 17px;
+    block-size:40px;
+}

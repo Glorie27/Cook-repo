@@ -1,0 +1,87 @@
+a:hover {
+    text-decoration: wavy;
+}
+
+
+body {
+    background-color: rgba(192, 28, 28, 0.438);
+    font-family: Terminal;
+}
+
+
+/*HEADER*/
+
+header {
+    background-image: url(Images/cripsy\ ribs\ appetizers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    color: cornsilk;
+    font-family: Ravie;
+    position: fixed;
+    text-indent: 50px;
+    text-shadow: -3px -3px 5px rgb(160, 9, 97), 3px 3px 5px rgb(223, 37, 37), -3px -3px 5px rgb(60, 170, 16);
+    
+}
+
+header button {
+    background-color: rgb(216, 203, 203);
+    border-radius: 50px;
+    margin-left: 90%;
+    text-align: center;
+    position: fixed;
+    text-decoration: none;
+}
+
+ul{
+    text-align: center;
+}
+
+/*MAIM*/
+
+main {
+    background-image: url(Images/broccoli-lentil-curry.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h2 {
+    font-family: Showcard Gothic;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 4px 5px 3px grey, -4px 5px 3px rgb(110, 101, 153);
+    color: rgb(66, 66, 119);
+}
+
+section button {
+    border-color: burlywood;
+    border-style: dotted;
+    margin-left: 22%;
+}
+
+Box img {
+    height: 190px;
+    width: 190px;
+    border-radius: 80px;
+}
+
+Box {
+    font-family: Wide Latin;
+    font-size: 12px;
+}
+
+
+/*FOOTER*/
+
+footer {
+    text-align: center;
+}
+
+footer div a img {
+    border-radius: 17px;
+    block-size:40px;
+}
